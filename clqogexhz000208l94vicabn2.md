@@ -8,13 +8,13 @@ tags: windows, begginers, cmd
 
 ---
 
-The command prompt or 'cmd' for short allows users to interact with their system by entering commands for the computer to follow.
+The command prompt, or 'cmd' for short, allows users to interact with their computer system by entering commands for the computer to follow.
 
 ### What kind of commands?
 
 Sorry, but no you can not ask your computer to turn you into the next president of America (unless your name is Donald Trump of course) but you can get it do to some pretty awesome stuff.
 
-From making you look like a real hacker to helping you install packages for Python using the command line can give you endless amounts of opportunities.
+From making you look like a real hacker to helping you install packages for Python, using the command line can give you endless amounts of opportunities.
 
 ### So how do I use it?
 
@@ -32,7 +32,11 @@ Now just type in your commands at the input line where your cursor is blinking. 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703757245929/4ba3d0f9-b997-432b-a3fc-d42238374ffd.gif align="center")
 
-Let's start by creating a new text file simply by telling our computer to create one.
+Let's start by creating a new text file simply by telling our computer to create one. We're going to get our command prompt to interact with Notepad and create a new file. Here is the command:
+
+```powershell
+notepad filename.extension 
+```
 
 ---
 
