@@ -9,11 +9,11 @@ tags: error, command-line, windows, begginers, cmd
 
 ---
 
-So you thought that the command line sounded like the greatest thing ever created after you successfully created a text file with one single line of code, am I right?
+So you thought that the command was the greatest thing ever created after you successfully created a text file with a single line of code, am I right?
 
-In a programming language when you run into errors, it's your own silly mistakes you need to debug. The command line is different though.
+In a programming language when you run into errors it's your own silly mistakes you need to debug. The command line is different though.
 
-Once you come face to face with those red lines coldly stating that something went wrong while executing the command, that's when you realize that you are doomed. Just kidding. With the right knowledge and proper preparations, you can boldly face those errors safe in the knowledge that you can solve them.
+Once you come face to face with those red lines coldly stating that something went wrong while executing the command, that's when you realize that you are doomed. Just kidding. With the right knowledge and proper preparations, you can boldly face those errors safe in the knowledge that you have the power to face them.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703786064756/0a32ced8-7bca-4950-8211-2f0de8e78592.gif align="center")
 
@@ -27,12 +27,14 @@ Today we will be exploring some of the most common command line errors, that bet
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703794156303/6b4faa3b-6338-4540-872e-5a2678df4d72.gif align="center")
 
-Some of the most common line errors:
+Some of the most common command line errors:
 
 <details data-node-type="hn-details-summary"><summary>command not found</summary><div data-type="detailsContent">To fix this error the first thing you should do is check for any typos or spelling mistakes that may have occurred while typing the command. A second reason for that is that your system path variable may not be properly configured.</div></details><details data-node-type="hn-details-summary"><summary>Permission Denied</summary><div data-type="detailsContent">This one is relatively simple. Just run your command prompt as an administrator by double-clicking on the command line app and clicking the 'run as administration' option. Once you have the system password of your PC you control it all!</div></details><details data-node-type="hn-details-summary"><summary>Connection Issues</summary><div data-type="detailsContent">If you are unable to connect to a server or network resource. You should verify network connectivity, check the status of the server you trying to connect, and ensure the proper URL or IP address.</div></details>
 
+And those are just the beginning...
+
 ---
 
-This was just a short introduction into the tough world of errors you will uninvitingly one day encounter. Don't give up no matter how dark things get when tackling command-line errors. Looking back today, I can hardly imagine, that less than just two months ago I hadn't been able to import even the most basic packages using the pip command in the prompt. And today? I've downloaded more packages than I could ever possibly count. My bottom line is: don't give up on solving an error because with coding, anything is possible!
+This was just a short introduction into the tough world of errors you will uninvitingly one day encounter. Don't give up no matter how dark things get when tackling command-line errors. Looking back today, I can hardly imagine, that less than just two months ago I hadn't been able to import even the most basic packages using the pip command in the prompt. And today? I've downloaded more packages than I could ever possibly count. bottom line is: don't ever give up on solving an error because, with coding, anything is possible!
 
-Until next time - Esther.
+Until next time -Esther.
