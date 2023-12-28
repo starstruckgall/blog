@@ -4,6 +4,7 @@ datePublished: Thu Dec 28 2023 21:21:03 GMT+0000 (Coordinated Universal Time)
 cuid: clqppm3ye000008l59oxt51xv
 slug: cmd-the-dark-side-is-revealed
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703798944515/afbedb27-20e9-45ef-aedd-85684292100d.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1703801691046/f6470e94-e134-45d6-9a08-43d98097aba3.gif
 tags: error, command-line, windows, begginers, cmd
 
 ---
