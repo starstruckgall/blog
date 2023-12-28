@@ -35,11 +35,15 @@ Now just type in your commands at the input line where your cursor is blinking. 
 Let's start by creating a new text file simply by telling our computer to create one. We're going to get our command prompt to interact with Notepad and create a new file. Here is the command:
 
 ```powershell
-notepad filename.extension 
+notepad filename.extension
 ```
 
----
+Replace the filename with the name of the file you wish to create and the extension should be the .txt if you are creating a text file.
 
-please note that this article was just a short overview of how to use the command line. For further information and a list of available commands please look out for further posts on the beautiful tiger blog.
+Congratulations!
 
-All the best, Esther.
+You have just used the command line for the first time. I hope you enjoyed this post and if you did, click the follow button to be notified of upcoming articles in which we'll explore the command line and its amazing uses in more detail.
+
+Until next time - Esther.
+
+A
