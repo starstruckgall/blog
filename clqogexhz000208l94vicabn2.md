@@ -28,6 +28,12 @@ Now just type in your commands at the input line where your cursor is blinking. 
 
 > You don't have to get it right the first time, You just have to keep going.
 
+### Our first command in the prompt
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703757245929/4ba3d0f9-b997-432b-a3fc-d42238374ffd.gif align="center")
+
+Let's start by creating a new text file simply by telling our computer to create one.
+
 ---
 
 please note that this article was just a short overview of how to use the command line. For further information and a list of available commands please look out for further posts on the beautiful tiger blog.
