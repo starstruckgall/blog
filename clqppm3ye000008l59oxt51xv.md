@@ -33,6 +33,6 @@ Some of the most common line errors:
 
 ---
 
-This was just a short intro to the tough world of errors you will uninvitingly one day encounter. Remember, every error is a lesson waiting to be learned. So, roll up your sleeves, dive into the command line, and fearlessly fix those errors using Google as your weapon with the knowledge that command line errors can be tough to fix but with enough hard work and by asking the right questions you will eventually get there.
+This was just a short introduction into the tough world of errors you will uninvitingly one day encounter. Don't give up no matter how dark things get when tackling command-line errors. Looking back today, I can hardly imagine, that less than just two months ago I hadn't been able to import even the most basic packages using the pip command in the prompt. And today? I've downloaded more packages than I could ever possibly count. My bottom line is: don't give up on solving an error because with coding, anything is possible!
 
 Until next time - Esther.
