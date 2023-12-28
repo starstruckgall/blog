@@ -1,10 +1,13 @@
 ---
 title: "What is the command prompt?"
+seoTitle: "What is the command line?"
+seoDescription: "What is the command line in windows and how do we 
+use it to tell our pc what to do?"
 datePublished: Thu Dec 28 2023 00:15:45 GMT+0000 (Coordinated Universal Time)
 cuid: clqogexhz000208l94vicabn2
 slug: what-is-the-command-prompt
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703721686239/32688adc-e9a9-4559-860f-3f956d57bc43.jpeg
-tags: windows, begginers, cmd
+tags: windows, begginers, cmd, command-lin
 
 ---
 
