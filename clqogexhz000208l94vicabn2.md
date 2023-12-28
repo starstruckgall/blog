@@ -28,6 +28,4 @@ Now just type in your commands at the input line where your cursor is blinking. 
 
 ---
 
-Now just type in your commands at the input line where your cursor is blinking. That's pretty much all you have to do to start using the command line. From creating new text files to installing packages with pip the command line can be used for basically anything.
-
 All the best, Esther.
