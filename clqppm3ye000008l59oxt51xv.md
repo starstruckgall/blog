@@ -12,7 +12,7 @@ So you thought that the command line sounded like the greatest thing ever create
 
 In a programming language when you run into errors, it's your own silly mistakes you need to debug. The command line is different though.
 
-Once you come face to face with those red lines coldly stating that something went wrong, while executing the command, that's when you realize that you are doomed. Just kidding. With the right knowledge and proper preparations, you can boldly face those errors safe in the knowledge that you can solve them.
+Once you come face to face with those red lines coldly stating that something went wrong while executing the command, that's when you realize that you are doomed. Just kidding. With the right knowledge and proper preparations, you can boldly face those errors safe in the knowledge that you can solve them.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703786064756/0a32ced8-7bca-4950-8211-2f0de8e78592.gif align="center")
 
