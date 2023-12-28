@@ -8,7 +8,7 @@ tags: windows, begginers, cmd
 
 ---
 
-The command prompt or 'cmd' for short for short allows users to interact with their system by entering commands for the computer to follow.
+The command prompt or 'cmd' for short allows users to interact with their system by entering commands for the computer to follow.
 
 ### What kind of commands?
 
@@ -24,7 +24,9 @@ If all goes well you should be directed to such a screen:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703721916389/646daf26-87d3-417c-9bd8-e1ed5d8fc684.png align="center")
 
-Now just type in your commands at the input line where your cursor is blinking. That's pretty much all you have to do to start using the command line. From creating new text files to installing packages with pip the command line can be used for basically anything.
+Now just type in your commands at the input line where your cursor is blinking. That's pretty much all you have to do to start using the command line. Let's begin with our first command, shall we?
+
+> You don't have to get it right the first time, You just have to keep going.
 
 ---
 
