@@ -14,7 +14,7 @@ The command prompt or 'cmd' for short for short allows users to interact with th
 
 Sorry, but no you can not ask your computer to turn you into the next president of America (unless your name is Donald Trump of course) but you can get it do to some pretty awesome stuff.
 
-From making you look like a real hacker to helping you install packages for Python using the command line can give you endless amounts of opportunities as well as make sure that you own your computer and all its users.
+From making you look like a real hacker to helping you install packages for Python using the command line can give you endless amounts of opportunities.
 
 ### So how do I use it?
 
@@ -24,12 +24,10 @@ If all goes well you should be directed to such a screen:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703721916389/646daf26-87d3-417c-9bd8-e1ed5d8fc684.png align="center")
 
-Now just type in your commands at the input line where your cursor is blinking.
-
-That's pretty much all you have to do to start using the command line.
+Now just type in your commands at the input line where your cursor is blinking. That's pretty much all you have to do to start using the command line. From creating new text files to installing packages with pip the command line can be used for basically anything.
 
 ---
 
-Please note that this article was just a short overview of what the command line does and for further information and a list of available commands please look out for future articles posted on Beautiful Tiger.
+Now just type in your commands at the input line where your cursor is blinking. That's pretty much all you have to do to start using the command line. From creating new text files to installing packages with pip the command line can be used for basically anything.
 
 All the best, Esther.
