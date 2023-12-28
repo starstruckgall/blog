@@ -28,4 +28,6 @@ Now just type in your commands at the input line where your cursor is blinking. 
 
 ---
 
+please note that this article was just a short overview of how to use the command line. For further information and a list of available commands please look out for further posts on the beautiful tiger blog.
+
 All the best, Esther.
