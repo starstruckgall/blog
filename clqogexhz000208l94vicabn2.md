@@ -38,7 +38,7 @@ Let's start by creating a new text file simply by telling our computer to create
 notepad filename.extension
 ```
 
-Replace the filename with the name of the file you wish to create and the extension should be the .txt if you are creating a text file. After typing that in click enter and you have created a file with the command prompt.
+Replace the filename with the name of the file you wish to create and the extension should be the .txt if you are creating a text file. After typing that into the command line click enter and \*tada\* you have created a new file using the command prompt.
 
 Congratulations!
 
