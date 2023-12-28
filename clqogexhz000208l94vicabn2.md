@@ -38,12 +38,10 @@ Let's start by creating a new text file simply by telling our computer to create
 notepad filename.extension
 ```
 
-Replace the filename with the name of the file you wish to create and the extension should be the .txt if you are creating a text file.
+Replace the filename with the name of the file you wish to create and the extension should be the .txt if you are creating a text file. After typing that in click enter and you have created a file with the command prompt.
 
 Congratulations!
 
 You have just used the command line for the first time. I hope you enjoyed this post and if you did, click the follow button to be notified of upcoming articles in which we'll explore the command line and its amazing uses in more detail.
 
 Until next time - Esther.
-
-A
