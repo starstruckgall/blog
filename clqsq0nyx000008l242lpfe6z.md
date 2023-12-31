@@ -57,7 +57,7 @@ If I have a heading I could use the style attribute to give it the color red.
 <h1 style="color:red">Please follow me!</h1>
 ```
 
-Attributes can also provide info about a specific element:
+Attributes can also provide info about a specific element
 
 ```xml
 <html lang="en"></html>
@@ -65,4 +65,4 @@ Attributes can also provide info about a specific element:
 
 This helps the browser recognize the language of the page.
 
-So I hope this has helped you understand the different names in HTML a little better. If not, then don't worry too much. those things come with practice and the more you code the easier time it'll be. And don't be scared to google what you don't know. I had to do that while writing this article.
+Remembering the different parts that make up the HTML language can be a difficult task for lots of us. Practice makes perfect. Don't be scared to google what you don't know, I had to do that while writing this article. Just keep hanging on and before you know it you'll be an HTML pro. If you enjoyed this post, I’d be very grateful if you’d help it spread by emailing it to a friend or sharing it on Twitter or Facebook. Thank you!
