@@ -65,4 +65,6 @@ Attributes can also provide info about a specific element
 
 This helps the browser recognize the language of the page.
 
-Remembering the different parts that make up the HTML language can be a difficult task for lots of us. Practice makes perfect. Don't be scared to google what you don't know, I had to do that while writing this article. Just keep hanging on and before you know it you'll be an HTML pro. If you enjoyed this post, I’d be very grateful if you’d help it spread by emailing it to a friend or sharing it on Twitter or Facebook. Thank you!
+Remembering the different parts that make up the HTML language can be a difficult task for lots of us. Practice makes perfect. Don't be scared to google what you don't know, I had to do that while writing this article. Just keep hanging on and before you know it you'll be an HTML pro. If you enjoyed this post, I’d be very grateful if you’d help it spread by emailing it to a friend or sharing it on Twitter or Facebook.
+
+Thank you -Esther.
