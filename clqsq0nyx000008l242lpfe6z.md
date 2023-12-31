@@ -14,7 +14,7 @@ It's sometimes hard to remember what something is used for. Like our brain for i
 
 ### HTML elements.
 
-Everything in HTML is made up of elements. every paragraph, image, or button is an element made up of an opening tag, a closing tag, and content in between. All the parts from the opening tag until the closing tag are going to be included in the element.
+Everything in HTML is made up of elements. Every paragraph, image, or button is an element made up of an opening tag, a closing tag, and content in between. All the parts from the opening tag until the closing tag are going to be included in the element.
 
 Some examples of elements:
 
