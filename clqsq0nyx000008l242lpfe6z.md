@@ -64,3 +64,5 @@ Attributes can also provide info about a specific element:
 ```
 
 This helps the browser recognize the language of the page.
+
+So I hope this has helped you understand the different names in HTML a little better. If not, then don't worry too much. those things come with practice and the more you code the easier time it'll be. And don't be scared to google what you don't know. I had to do that while writing this article.
