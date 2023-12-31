@@ -3,7 +3,7 @@ title: "I can't remember what that does - HTML"
 datePublished: Sat Dec 30 2023 23:55:40 GMT+0000 (Coordinated Universal Time)
 cuid: clqsq0nyx000008l242lpfe6z
 slug: i-cant-remember-what-that-does-html
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703982040212/3420a39c-e854-46fe-9081-0fd407aee056.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oZuBNC-6E2s/upload/0a0d252214ff2aa1f48b39e8c36432b7.jpeg
 tags: html, explanation, begginers
 
 ---
