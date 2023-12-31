@@ -8,7 +8,7 @@ tags: html, explanation, begginers
 
 ---
 
-It's sometimes hard to remember what something is used for. Like our brain for instance which we always seem to forget their use. The same can be true when learning a new language. There are new words to remember and sometimes understanding what they do, can help us remember how to use them without having to google it all the time.
+It's sometimes hard to remember what something is used for. Like our brain for instance which we always seem to forget to use. The same can be true when learning a new programming language. There are new words to remember and sometimes understanding what they do, can help us remember how to use them without having to google it all the time.
 
 ## Let's start with the basics.
 
