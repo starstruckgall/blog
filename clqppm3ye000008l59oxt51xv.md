@@ -29,7 +29,17 @@ Today we will be exploring some of the most common command line errors, that bet
 
 Some of the most common command line errors:
 
-<details data-node-type="hn-details-summary"><summary>command not found</summary><div data-type="detailsContent">To fix this error the first thing you should do is check for any typos or spelling mistakes that may have occurred while typing the command. A second reason for that is that your system path variable may not be properly configured.</div></details><details data-node-type="hn-details-summary"><summary>Permission Denied</summary><div data-type="detailsContent">This one is relatively simple. Just run your command prompt as an administrator by double-clicking on the command line app and clicking the 'run as administration' option. Once you have the system password of your PC you control it all!</div></details><details data-node-type="hn-details-summary"><summary>Connection Issues</summary><div data-type="detailsContent">If you are unable to connect to a server or network resource. You should verify network connectivity, check the status of the server you trying to connect, and ensure the proper URL or IP address.</div></details>
+### command not found
+
+To fix this error the first thing you should do is check for any typos or spelling mistakes that may have occurred while typing the command. A second reason for that is that your system path variable may not be properly configured.
+
+### Permission Denied
+
+This one is relatively simple. Just run your command prompt as an administrator by double-clicking on the command line app and clicking the 'run as administration' option. Once you have the system password of your PC you control it all!
+
+### Connection Issues
+
+If you are unable to connect to a server or network resource. You should verify network connectivity, check the status of the server you trying to connect, and ensure the proper URL or IP address.
 
 And those are just the beginning...
 
