@@ -8,7 +8,7 @@ tags: html, explanation, begginers
 
 ---
 
-It's sometimes hard to remember what something is used for. Like our brain for instance which we always seem to forget their use. The same can be true when learning a new language. There are new words to remember and sometimes understanding what they do, can help us remember how to use them without having to google it all the time.
+It's sometimes hard to remember what something is used for. Like our brain for instance we always seem to forget their use. The same can be true when learning a new language. There are new words to remember and sometimes understanding what they do, can help us remember how to use them without having to google it all the time.
 
 ## Let's start with the basics.
 
@@ -65,6 +65,10 @@ Attributes can also provide info about a specific element
 
 This helps the browser recognize the language of the page.
 
-Remembering the different parts that make up the HTML language can be a difficult task for lots of us. Practice makes perfect. Don't be scared to google what you don't know, I had to do that while writing this article. Just keep hanging on and before you know it you'll be an HTML pro. If you enjoyed this post, I’d be very grateful if you’d help it spread by emailing it to a friend or sharing it on Twitter or Facebook.
+---
 
-Thank you -Esther.
+Remembering the different parts that make up the HTML language can be a difficult task for lots of us. Practice makes perfect. Don't be scared to google what you don't know (I had to do that while writing this article). If you keep hanging on, before you know it you'll be an HTML pro.
+
+> “All ***beginnings are hard***, but harder yet is perseverance.”
+
+Until next time -Esther.
