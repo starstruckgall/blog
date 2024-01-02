@@ -71,4 +71,4 @@ Remembering the different parts that make up the HTML language can be a difficul
 
 > “All ***beginnings are hard***, but harder yet is perseverance.”
 
-Until next time -Esther.
+Until next time.
